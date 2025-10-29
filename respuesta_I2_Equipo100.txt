@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 e)
 Integrantes del equipo:
 BETA: Argañaraz Alexis
@@ -23,3 +24,7 @@ Lista de comandos:
 8. GAMMA y ALFA actualizan su copia utilizando git pull.
 9. Cada miembro del equipo edita su archivo como corresponda y luego hacen el commit y push.
 10. Tanto GAMMA como ALFA deberan sincronizar sus repositorios para que esten al día con el de BETA.
+=======
+Respuesta C:
+Respuesta D:No,no se pierden
+>>>>>>> 4a06acdf78e3cdac1990bb88898f2190f32a0c64
