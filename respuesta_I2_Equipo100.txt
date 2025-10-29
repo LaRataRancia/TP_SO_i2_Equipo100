@@ -1,2 +1,30 @@
+<<<<<<< HEAD
+e)
+Integrantes del equipo:
+BETA: Argañaraz Alexis
+ALFA: Calderón Nahuel Agustín
+GAMMA: Achucarro Matias
+
+Lista de comandos:
+   git clone https://github.com/BETA/TP_SO_i2_EquipoX.git
+   git clone https://github.com/GAMMA/TP_SO_i2_EquipoX.git
+   git clone https://github.com/ALFA/TP_SO_i2_EquipoX.git
+   git add .
+   git commit -m "mensaje"
+   git push
+   git pull
+-------------------------------------------------------------------------------------------------------------------
+1. BETA crea el repositorio original junto con el README.md.
+2. BETA clona el repositorio y en su pc de forma local, crea y añade los archivos solicitados.
+3. GAMMA hace fork del repositorio de BETA y lo clona
+4. GAMMA clona su fork, modifica el archivo fork.txt agregando su nombre, IP y hora.
+5. ALFA repite los mismos pasos que GAMMA.
+6. BETA añade el archivo NuevoDato.txt y lo sube.
+7. BETA añade el archivo respuesta_I2_EquipoX.txt
+8. GAMMA y ALFA actualizan su copia utilizando git pull.
+9. Cada miembro del equipo edita su archivo como corresponda y luego hacen el commit y push.
+10. Tanto GAMMA como ALFA deberan sincronizar sus repositorios para que esten al día con el de BETA.
+=======
 Respuesta C:
 Respuesta D:No,no se pierden
+>>>>>>> 4a06acdf78e3cdac1990bb88898f2190f32a0c64
