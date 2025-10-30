@@ -27,4 +27,12 @@ Lista de comandos:
 =======
 Respuesta C:
 Respuesta D:No,no se pierden
+Respuesta A: haciendo:
+git pull
+git add .
+git commit -m "Actualización del fork"
+git push
+Respuesta B: No, ALFA no puede actualizar directamente su fork al estado del fork de GAMMA,
+porque los forks son independientes entre sí.
+
 >>>>>>> 4a06acdf78e3cdac1990bb88898f2190f32a0c64
