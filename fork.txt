@@ -2,3 +2,7 @@ Datos de ALFA:
 Nombre: Nahuel Agustín Calderón
 IP: 197.168.1.9
 Hora: 11:46
+Datos de GAMMA:
+Nombre: Matias Achucarro
+IP: 197.168.1.100
+Hora: 13:16
